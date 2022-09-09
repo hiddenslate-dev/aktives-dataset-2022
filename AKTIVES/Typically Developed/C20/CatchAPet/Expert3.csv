@@ -1,0 +1,49 @@
+Minute,Second,Stress/No Stress,Reaction/No Reaction
+0,10,No Stress,No Reaction
+0,20,Stress,No Reaction
+0,30,No Stress,No Reaction
+0,40,No Stress,No Reaction
+0,50,No Stress,No Reaction
+0,60,Stress,No Reaction
+1,70,Stress,Reaction
+1,80,No Stress,No Reaction
+1,90,No Stress,No Reaction
+1,100,No Stress,No Reaction
+1,110,No Stress,No Reaction
+1,120,Stress,Reaction
+2,130,No Stress,No Reaction
+2,140,No Stress,No Reaction
+2,150,Stress,No Reaction
+2,160,Stress,No Reaction
+2,170,Stress,Reaction
+2,180,Stress,No Reaction
+3,190,No Stress,Reaction
+3,200,No Stress,No Reaction
+3,210,No Stress,No Reaction
+3,220,No Stress,No Reaction
+3,230,No Stress,No Reaction
+3,240,No Stress,No Reaction
+4,250,No Stress,No Reaction
+4,260,No Stress,No Reaction
+4,270,Stress,No Reaction
+4,280,No Stress,No Reaction
+4,290,No Stress,No Reaction
+4,300,No Stress,No Reaction
+5,310,No Stress,No Reaction
+5,320,No Stress,No Reaction
+5,330,Stress,No Reaction
+5,340,Stress,Reaction
+5,350,No Stress,No Reaction
+5,360,No Stress,No Reaction
+6,370,No Stress,No Reaction
+6,380,No Stress,No Reaction
+6,390,No Stress,No Reaction
+6,400,No Stress,No Reaction
+6,410,No Stress,No Reaction
+6,420,Stress,No Reaction
+7,430,No Stress,No Reaction
+7,440,No Stress,No Reaction
+7,450,No Stress,No Reaction
+7,460,,
+7,470,,
+7,480,,
