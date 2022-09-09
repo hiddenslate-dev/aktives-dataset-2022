@@ -16,7 +16,7 @@ There are CatchAPet and LeapBall game folders in the folders of the children in 
 - **Game file:** Contains video footage recorded during the game. It is stored in json format.
 - **E4 file:** It is the file where the physiological data collected from the E4 device during the game is stored. It is stored in txt format.
 
-** Notice : Video footage must be used for analysis purposes only and must not be shared anywhere. **
+**Notice : Video footage must be used for analysis purposes only and must not be shared anywhere.**
 
 The contents of each notebook are given below.
 
