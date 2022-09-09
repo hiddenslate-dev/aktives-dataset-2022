@@ -8,7 +8,7 @@ AKTIVES dataset: stress recognition with physiological signals.
 Necessary libraries are in [requirements.txt](https://github.com/hiddenslate/aktives-scientific-data/blob/main/requirements.txt).
 
 The AKTIVES dataset is 5.41 GB in size. In the dataset, there are four disease categories in the first index.
-These categories are Brachial Plexus, Dyslexia, Mental Retardation, and Normal Development. There are two children in the Brachial Plexus category, five children in the Dyslexia category, 8 children in the Mental Retardation category and 10 children in the Normal Development category.
+These categories are Brachial Plexus, Dyslexia, Mental Retardation, and Normal Development. There are two children in the Brachial Plexus category, five children in the Dyslexia category, eight children in the Mental Retardation category and ten children in the Normal Development category.
 There are CatchAPet and LeapBall game folders in the folders of the children in each category. Then there are 6 files belonging to the child in both game folders. There are 12 files for a child in total. These files have the following content:
 
 - Three label files: Label files made by each expert. The files are in csv format.
