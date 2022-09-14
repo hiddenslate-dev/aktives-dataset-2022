@@ -34,4 +34,5 @@ The contents of each notebook are given below.
 * Setup your environment (venv, conda, etc.) and install dependencies from requirements.txt
 
 [1] https://pypi.org/project/fer/
+
 [2] http://dlib.net/face_landmark_detection.py.html
