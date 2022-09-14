@@ -23,7 +23,7 @@ The contents of each notebook are given below.
 
 * [Label_Sync.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Label_Sync.ipynb) compares the three expert labels with each other and selects the label with the majority of votes for use.
 * [preprocess.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/preprocess.ipynb) includes converting time values into DateTime, removing unnecessary data parts, separating data as Blood Volume Pulse (BVP), Electrodermal Activity (EDA), and Skin Temperature (ST), and filtering and visualization of the signals.
-* [SignaltoNoiseRatio(SNR).ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/SignaltoNoiseRatio(SNR).ipynb) calculates the signal-to-noise ratio (SNR) of the physiological signals, and their statistical features.
+* [SignaltoNoiseRatio(SNR).ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/SignaltoNoiseRatio(SNR).ipynb) calculates the signal-to-noise ratio (SNR) [3] of the physiological signals, and their statistical features.
 * [Annotation_Validation.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Annotation_Validation.ipynb) calculates the agreement percentages of the expert annotations.
 * [Aktives-face.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Aktives-face.ipynb) detects the facial expressions with FER library [1] and detect facial landmarks with DLIB shape predictor [2]. 
 
@@ -36,3 +36,5 @@ The contents of each notebook are given below.
 [1] https://pypi.org/project/fer/
 
 [2] http://dlib.net/face_landmark_detection.py.html
+
+[3] https://github.com/psychosensing/popane-2021/blob/main/scripts/snr.py
