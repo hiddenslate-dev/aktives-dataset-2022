@@ -2,8 +2,8 @@
 
 ## Description
 
-This is a supplementary repository for the Emognition Wearable Dataset 2020 and article titled
-AKTIVES dataset: stress recognition with physiological signals.
+This is a supplementary repository for the Emognition AKTIVES Dataset 2022 presented in the article titled
+"AKTIVES dataset: stress recognition with physiological signals".
 
 Necessary libraries are in [requirements.txt](https://github.com/hiddenslate/aktives-scientific-data/blob/main/requirements.txt).
 
@@ -15,6 +15,7 @@ There are CatchAPet and LeapBall game folders in the folders of the children in 
 - **Video file:** Contains video footage recorded during the game. It is in mp4 format.
 - **Game file:** There are game-related parameters collected during the game. It is stored in json format.
 - **E4 file:** It is the file where the physiological data collected from the E4 device during the game is stored. It is stored in txt format.
+- **Facial expression files:** These are csv files that includes the automatically detected facial expressions of each child.
 
 **Notice : Video footage must be used for analysis purposes only and must not be shared anywhere.**
 
