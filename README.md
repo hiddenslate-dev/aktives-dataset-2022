@@ -9,7 +9,7 @@ Necessary libraries are in [requirements.txt](https://github.com/hiddenslate/akt
 
 The AKTIVES dataset is 5.41 GB in size. In the dataset, there are four disease categories in the first index.
 These categories are *Brachial Plexus, Dyslexia, Intellectual Disabilities, and Typically Developed*. There are two children in the Brachial Plexus category, five children in the Dyslexia category, eight children in the Intellectual Disabilities category and ten children in the Typically Development category.
-There are CatchAPet and LeapBall game folders in the folders of the children in each category. Then there are 6 files belonging to the child in both game folders. There are 12 files for a child in total. These files have the following content:
+CatchAPet and LeapBall game folders are in the children's folders in each category. Then there are 7 files belonging to the child in both game folders. There are 14 files for a child in total. These files have the following content:
 
 - **Three label files:** Label files annotated by each expert. The files are named as "ExpertNumber.csv" and data is in csv format.
 - **Video file:** Contains video footage recorded during the game. It is in mp4 format.
@@ -17,7 +17,7 @@ There are CatchAPet and LeapBall game folders in the folders of the children in 
 - **E4 file:** It is the file where the physiological data collected from the E4 device during the game is stored. It is stored in txt format.
 - **Facial expression files:** These are csv files that includes the automatically detected facial expressions of each child.
 
-**Notice : Video footage must be used for analysis purposes only and must not be shared anywhere.**
+**Notice : Video footage can only be used for analysis purposes and must not be shared anywhere.**
 
 The contents of each notebook are given below.
 
