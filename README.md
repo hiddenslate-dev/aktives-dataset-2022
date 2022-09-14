@@ -25,10 +25,13 @@ The contents of each notebook are given below.
 * [preprocess.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/preprocess.ipynb) contains the necessary edits to be made before using the E4 data for the model.
 * [SignaltoNoiseRatio(SNR).ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/SignaltoNoiseRatio(SNR).ipynb)
 * [Annotation_Validation.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Annotation_Validation.ipynb)
-* [Aktives-face.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Aktives-face.ipynb) detects the facial expressions and detect facial landmarks.
+* [Aktives-face.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Aktives-face.ipynb) detects the facial expressions with FER library [1] and detect facial landmarks with DLIB shape predictor [2]. 
 
 
 ## Project Configuration
 
 * Install Python (at least 3.9 version is recommended),
 * Setup your environment (venv, conda, etc.) and install dependencies from requirements.txt
+
+[1] https://pypi.org/project/fer/
+[2] http://dlib.net/face_landmark_detection.py.html
