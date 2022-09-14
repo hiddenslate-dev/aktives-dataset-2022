@@ -22,7 +22,7 @@ CatchAPet and LeapBall game folders are in the children's folders in each catego
 The contents of each notebook are given below.
 
 * [Label_Sync.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Label_Sync.ipynb) compares the three expert labels with each other and selects the label with the majority of votes for use.
-* [preprocess.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/preprocess.ipynb) contains the necessary edits to be made before using the E4 data for the model.
+* [preprocess.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/preprocess.ipynb) includes converting time values into DateTime, removing unnecessary data parts, separating data as Blood Volume Pulse (BVP), Electrodermal Activity (EDA), and Skin Temperature (ST), and filtering and visualization of the signals.
 * [SignaltoNoiseRatio(SNR).ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/SignaltoNoiseRatio(SNR).ipynb)
 * [Annotation_Validation.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Annotation_Validation.ipynb)
 * [Aktives-face.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Aktives-face.ipynb) detects the facial expressions with FER library [1] and detect facial landmarks with DLIB shape predictor [2]. 
