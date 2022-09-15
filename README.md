@@ -39,4 +39,4 @@ The contents of each notebook are given below.
 
 If you use AKTIVES Dataset 2022, please cite the article below:
 
-Coskun B., Ay S., Bostancı H., Erol Barkana D., Uzun İ., Tuncel B., Tarakçı D., Oktay A.B., AKTIVES dataset: stress recognition with physiological signals (202X). XXXX.
+Coskun B., Ay S., Erol Barkana D., Bostancı H., Uzun İ., Oktay A.B., Tuncel B., Tarakçı D., AKTIVES dataset: stress recognition with physiological signals (202X). XXXX.
