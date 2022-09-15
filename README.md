@@ -12,6 +12,7 @@ The AKTIVES dataset is 5.41 GB in size. In the dataset, there are four disease c
 - **Game file:** There are game-related parameters collected during the game. It is stored in json format.
 - **E4 file:** It is the file where the physiological data collected from the E4 device is stored while children play the serious game. It is stored in txt format. The E4.txt files include acceleration data with E4_Acc abbreviation, Blood Volume Pulse (BVP) data with E4_Bvp abbreviation, Electrodermal Activity (EDA) with E4_Gsr abbreviation, Skin Temperature (ST) data with E4_Temperature abbreviation, Interbeat Interval (IBI) data with E4_ibi abbreviation and Heart Rate (HR) data with E4_Hr abbreviation.
 - **Facial expression files:** These are csv files that include each child's automatically detected facial expressions.
+
 **Note: Video footage can only be used for analysis purposes and must not be shared anywhere.**
 
 The contents of each notebook are given below.
