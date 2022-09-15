@@ -2,21 +2,16 @@
 
 ## Description
 
-This is a supplementary repository for the Emognition AKTIVES Dataset 2022 presented in the article titled
-"AKTIVES dataset: stress recognition with physiological signals".
-
+This is a supplementary repository for the Emognition AKTIVES Dataset 2022 presented in the article titled "AKTIVES dataset: stress recognition with physiological signals".
 Necessary libraries are in [requirements.txt](https://github.com/hiddenslate/aktives-scientific-data/blob/main/requirements.txt).
 
-The AKTIVES dataset is 5.41 GB in size. In the dataset, there are four disease categories in the first index.
-These categories are *Brachial Plexus, Dyslexia, Intellectual Disabilities, and Typically Developed*. There are two children in the Brachial Plexus category, five children in the Dyslexia category, eight children in the Intellectual Disabilities category and ten children in the Typically Development category.
-CatchAPet and LeapBall game folders are in the children's folders in each category. Then there are 7 files belonging to the child in both game folders. There are 14 files for a child in total. These files have the following content:
+The AKTIVES dataset is 5.41 GB in size. In the dataset, there are four disease categories in the first index. These categories are Brachial Plexus, Dyslexia, Intellectual Disabilities, and Typically Developed. There are two children in the Brachial Plexus category, five children in the Dyslexia category, eight in the Intellectual Disabilities category, and ten in the Typically Development category. CatchAPet and LeapBall game folders are in the children's folders in each category. Then there are 6 files belonging to the child in both game folders. There are 12 files for a child in total. These files have the following content:
 
-- **Three label files:** Label files annotated by each expert. The files are named as "ExpertNumber.csv" and data is in csv format.
+- **Three label files:** Label files annotated by each expert. The files are named "ExpertNumber.csv" and the data is in csv format.
 - **Video file:** Contains video footage recorded during the game. It is in mp4 format.
 - **Game file:** There are game-related parameters collected during the game. It is stored in json format.
 - **E4 file:** It is the file where the physiological data collected from the E4 device during the game is stored. It is stored in txt format.
-- **Facial expression files:** These are csv files that includes the automatically detected facial expressions of each child.
-
+- **Facial expression files:** These are csv files that include each child's automatically detected facial expressions.
 **Notice : Video footage can only be used for analysis purposes and must not be shared anywhere.**
 
 The contents of each notebook are given below.
