@@ -1,4 +1,4 @@
-# Repository for the Emognition AKTIVES Dataset 2022
+# Repository for the AKTIVES Dataset 2022
 
 ## Description
 
