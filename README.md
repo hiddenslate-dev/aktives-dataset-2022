@@ -26,6 +26,8 @@ The contents of each notebook are given below.
 * Install Python (at least 3.9 version is recommended),
 * Setup your environment (venv, conda, etc.) and install dependencies from requirements.txt
 
+## References
+
 [1] https://pypi.org/project/fer/
 
 [2] http://dlib.net/face_landmark_detection.py.html
