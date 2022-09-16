@@ -28,6 +28,10 @@ The contents of each notebook are given below.
 
 [3] http://dlib.net/face_landmark_detection.py.html
 
+## Dataset Access
+
+The use of the AKTIVES dataset is limited to the academic research purposes only. The data will be made available after completing the End User License Agreement (EULA). The EULA is located in the dataset repository. It should be signed and emailed to xxx
+
 ## Project Configuration
 
 * Install Python (at least 3.9 version is recommended),
