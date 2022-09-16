@@ -22,8 +22,6 @@ The contents of each notebook are given below.
 * [Annotation_Validation.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Annotation_Validation.ipynb) calculates the agreement percentages of the expert annotations.
 * [Aktives-face.ipynb](https://github.com/hiddenslate/aktives-scientific-data/blob/main/Aktives-face.ipynb) detects facial expressions with the FER library [2] and detects facial landmarks with DLIB shape predictor [3].
 
-## References
-
 [1] https://github.com/psychosensing/popane-2021/blob/main/scripts/snr.py
 
 [2] https://pypi.org/project/fer/
