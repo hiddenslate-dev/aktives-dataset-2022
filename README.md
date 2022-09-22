@@ -30,7 +30,7 @@ The contents of each notebook are given below.
 
 ## Dataset Access
 
-The use of the AKTIVES dataset is limited to the academic research purposes only. The data will be made available after completing the End User License Agreement (EULA). The EULA is located in the dataset repository in EULA_AKTIVES.pdf. It should be signed and emailed to inosens@inosens.com.tr
+The use of the AKTIVES dataset is limited to the academic research purposes only. The data will be made available after completing the End User License Agreement (EULA). The EULA is located in the dataset repository in EULA_AKTIVES.pdf. It should be signed and emailed to inosens@inosens.com.tr.
 
 ## Project Configuration
 
