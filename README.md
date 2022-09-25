@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a supplementary repository for the AKTIVES Dataset 2022 presented in the article titled "AKTIVES dataset: stress recognition with physiological signals".
+This is a supplementary repository for the AKTIVES Dataset 2022 presented in the article titled "AKTIVES: A physiological signal database of children with neurodevelopmental disorders for stress recognition research".
 Necessary libraries are in [requirements.txt](https://github.com/hiddenslate/aktives-scientific-data/blob/main/requirements.txt).
 
 The AKTIVES dataset is 5.41 GB in size. In the dataset, there are four disease categories in the first index. These categories are Brachial Plexus, Dyslexia, Intellectual Disabilities, and Typically Developed. There are two children in the Brachial Plexus category, five children in the Dyslexia category, eight in the Intellectual Disabilities category, and ten in the Typically Development category. CatchAPet and LeapBall game folders are in the children's folders in each category. Then there are 7 files belonging to the child in both game folders. There are 14 files for a child in total. These files have the following content:
