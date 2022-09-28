@@ -31,4 +31,4 @@ The use of the AKTIVES dataset is limited to the academic research purposes only
 
 If you use AKTIVES Dataset 2022, please cite the article below:
 
-Coskun B., Ay S., Erol Barkana D., Bostancı H., Uzun İ., Oktay A.B., Tuncel B., Tarakçı D., AKTIVES: A physiological signal database of children with neurodevelopmental disorders for stress recognition research (202X). XXXX.
+Coskun B., Ay S., Erol Barkana D., Bostancı H., Uzun İ., Oktay A.B., Tuncel B., Tarakçı D., AKTIVES: A physiological signal database of children with neurodevelopmental disorders for stress recognition (202X). XXXX.
