@@ -20,7 +20,7 @@ The contents of each notebook are given below.
 
 ## Dataset Access
 
-The use of the AKTIVES dataset is limited to the academic research purposes only. The data will be made available after completing the End User License Agreement (EULA). The EULA is located in the [AKTIVES dataset repository](https://doi.org/10.7303/syn43685982.1) in EULA_AKTIVES.pdf. It should be signed and emailed to aktives.project@gmail.com.
+The use of the AKTIVES dataset is limited to academic research purposes only. The data will be made available after completing the End User License Agreement (EULA). The EULA is located in the [AKTIVES dataset repository](https://doi.org/10.7303/syn43685982.1) in EULA_AKTIVES.pdf. It should be signed and emailed to aktives.project@gmail.com.
 
 ## Project Configuration
 
@@ -29,6 +29,6 @@ The use of the AKTIVES dataset is limited to the academic research purposes only
 
 ## Reference
 
-If you use AKTIVES Dataset 2022, please cite the article below:
+If you use the AKTIVES Dataset 2022, please cite the article below:
 
-Coskun B., Ay S., Erol Barkana D., Bostancı H., Uzun İ., Oktay A.B., Tuncel B., Tarakçı D., AKTIVES: A physiological signal database of children with neurodevelopmental disorders for stress recognition (202X). XXXX.
+Coskun, B., Ay, S., Erol Barkana, D., Bostanci, H., Uzun, I., Oktay, A. B., Tuncel, B., & Tarakci, D. (2022). AKTIVES: A physiological signal database of children with neurodevelopmental disorders for stress recognition 
